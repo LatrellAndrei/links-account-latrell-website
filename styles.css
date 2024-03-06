@@ -95,6 +95,7 @@ main {
   overflow: hidden;
   color: white;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .link:hover {
